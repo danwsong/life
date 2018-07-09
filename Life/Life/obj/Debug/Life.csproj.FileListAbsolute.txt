@@ -1,0 +1,11 @@
+C:\Users\Daniel Song\Documents\Projects\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Daniel Song\Documents\Projects\Life\Life\bin\Debug\Life.exe
+C:\Users\Daniel Song\Documents\Projects\Life\Life\bin\Debug\Life.pdb
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.Properties.Resources.resources
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.csproj.GenerateResource.Cache
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.exe
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.pdb
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.Life.resources
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Song\Documents\Projects\Life\Life\obj\Debug\Life.SettingsForm.resources
